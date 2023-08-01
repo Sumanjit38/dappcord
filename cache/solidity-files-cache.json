@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/sumanjit/Full_Projects/dappcord/contracts/Dappcord.sol": {
+      "lastModificationDate": 1690908058713,
+      "contentHash": "7a48ea6859bd8c6e863d2ca4ecc60e42",
+      "sourceName": "contracts/Dappcord.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Dappcord"
+      ]
+    }
+  }
+}
